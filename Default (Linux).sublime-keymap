@@ -1,0 +1,7 @@
+[
+	{
+		"keys": ["ctrl+shift+t"],
+		"command": "youdao_translate"
+	}
+
+]
